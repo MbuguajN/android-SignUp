@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="phone_array">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+
+    </string-array>
+    <string name="app_name">SignUp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_date_of_birth">Enter Date Of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="image">image</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">LOGIN</string>
+</resources>
